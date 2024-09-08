@@ -21,7 +21,7 @@ const Heading = styled.h1`
       font-size: 1.5rem;
       font-weight: 500;
     `}
-  background-color: var(--color-grey-100);
+  background-color: var(--color-grey-50);
   margin: 4px;
 `;
 
